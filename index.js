@@ -6,3 +6,4 @@ console.log(
   "Chodzi o proste zmiany w kodzie, ktore pozwolą potestować Git-a i GitLaba"
 );
 console.log("Zaczynamy?");
+console.log("dodaje zmiany jako nowy user");
