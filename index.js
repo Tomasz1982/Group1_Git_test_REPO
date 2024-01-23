@@ -7,7 +7,4 @@ console.log(
 );
 console.log("Zaczynamy?");
 console.log("dodaje zmiany jako nowy user");
-
 console.log("super istotna zmiana");
-
-console.log("bardzo nieistotna zmiana");
